@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:0 group-title="AnnDy-TV",  ´
+#EXTSIZE: Big
+
+#EXTM3U
+
+#EXTINF:0 group-title="A&P CHANNEL", CANAIS A CABO
+
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img924/740/Xw8fDM.png" group-title="",A&E 
+http://maxptv.ddns.net:25461/live/MA020/0706/230.ts
+
+
+
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9548/rpc3sX.png" group-title="",AXN 
+http://maxptv.ddns.net:25461/live/MA020/0706/223.ts
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1643/W0DgN7.png" group-title="",SONY
+http://maxptv.ddns.net:25461/live/MA020/0706/51.ts
+
+
+
